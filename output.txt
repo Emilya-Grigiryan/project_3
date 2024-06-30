@@ -1,0 +1,1 @@
+tho is an example of a text with some seeling errors The purpose of this text is to demonstrate how the spellchecker works It will identify words that are incorrectly spelled and suggest corrections

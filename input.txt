@@ -1,0 +1,1 @@
+Ths is an exmple of a txt with sme speling erors. The puropse of this txt is to demonstate how the spellcheker works. It will idntify wrds that are incorretly speled and sugget corrextions.
